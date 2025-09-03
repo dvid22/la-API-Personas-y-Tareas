@@ -93,3 +93,5 @@ Response ejemplo:
 La colección de Postman con todos los endpoints está disponible en el siguiente enlace:
 
 https://serniet22-6135841.postman.co/workspace/Sergio-Nieto's-Workspace~0dc71281-47ce-40c6-8b57-47159d18c6d9/collection/48003272-1d179ccd-ffb4-4aaf-b798-520f567b9e0e?action=share&source=copy-link&creator=48003272
+
+https://serniet22-6135841.postman.co/workspace/Sergio-Nieto's-Workspace~0dc71281-47ce-40c6-8b57-47159d18c6d9/collection/48003272-1d179ccd-ffb4-4aaf-b798-520f567b9e0e?action=share&source=copy-link&creator=48003272
