@@ -1,6 +1,7 @@
 # Documentación del Proyecto: API de Personas y Tareas
 Sergio David Nieto Murcia
 Tania Lorena Niño 
+
 ## 1. Descripción del Proyecto
 
 Este proyecto consiste en una API REST desarrollada con **Django y Django REST Framework (DRF)** para gestionar:
